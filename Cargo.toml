@@ -1,0 +1,28 @@
+[package]
+name = "desktop"
+version = "0.0.0"
+authors = ["pyro.host <team@pyro.host>"]
+edition = "2021"
+description = "A desktop webview application for the Pyrodactyl panel."
+repository = "https://github.com/pyrohost/panel"
+homepage = "https://pyro.host"
+license_file = "LICENSE"
+
+[profile.release]
+opt-level = "z"
+lto = "thin"
+codegen-units = 1
+debug = false
+
+[profile.dev]
+opt-level = 0
+debug = true
+
+[dependencies]
+directories = "5.0.1"
+dirs = "5.0.1"
+tao = "0.26.1"
+wry = "0.37.0"
+
+[build-dependencies]
+winres = "0.1.12"
