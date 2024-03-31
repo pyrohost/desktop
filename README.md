@@ -30,4 +30,4 @@ pyrodactyl™ Copyright © 2024 pyro.host
 
 pyro Desktop™ Copyright © 2024 pyro.host
 
-pyro Desktop™ and its source code is licensed and distributed under Business Source License 1.1. Please see the [LICENSE](https://github.com/pyrohost/desktop/blob/main/LICENSE) file for more information on your rights to use pyro Desktop.
+pyro Desktop™ and its source code is licensed and distributed under Pyro Source Available License. Please see the [LICENSE](https://github.com/pyrohost/desktop/blob/main/LICENSE) file for more information on your rights to use pyro Desktop.
