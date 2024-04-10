@@ -8,8 +8,8 @@
   <a aria-label="Join the Pyro community on Discord" href="https://discord.gg/fxeRFRbhQh?utm_source=githubreadme&utm_medium=readme&utm_campaign=OSSLAUNCH&utm_id=OSSLAUNCH">
     <img alt="" src="https://i.imgur.com/qSfKisV.png">
   </a>
-    <a aria-label="Licensed under Business Source License 1.1" href="https://github.com/pyrohost/panel/blob/main/LICENSE">
-    <img alt="" src="https://i.imgur.com/DHx8Cz6.png">
+    <a aria-label="Licensed under Pyro Source Available License" href="https://github.com/pyrohost/panel/blob/main/LICENSE">
+    <img alt="" src="https://i.imgur.com/UrJMbDk.png">
   </a>
 </p>
 
