@@ -26,8 +26,8 @@ You will need the latest Node LTS and a working installation of pnpm.
 
 ## License
 
-pyrodactyl™ Copyright © 2024 pyro.host
+pyrodactyl™ Copyright © 2024 Pyro Host Inc.
 
-pyro Desktop™ Copyright © 2024 pyro.host
+Pyro Desktop™ Copyright © 2024 Pyro Host Inc.
 
-pyro Desktop™ and its source code is licensed and distributed under Pyro Source Available License. Please see the [LICENSE](https://github.com/pyrohost/desktop/blob/main/LICENSE) file for more information on your rights to use pyro Desktop.
+Pyro Desktop, available at https://github.com/pyrohost/desktop, is licensed by Pyro Host Inc. under the [Pyro Source Available License (PSAL)](https://github.com/pyrohost/legal/blob/main/licenses/PSAL.md). Your access to and use of content in this repository is governed by the terms of the PSAL. If you don't agree to the terms of the PSAL, you are not permitted to access or use content available in this repository.
